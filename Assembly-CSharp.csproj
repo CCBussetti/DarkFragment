@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F536D4E2-7E6F-BB40-F6EB-7C64A65B74DF}</ProjectGuid>
+    <ProjectGuid>{C69DC064-C0CB-B3D6-F4C7-4469F4C8F2EF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\MouseLock.cs" />
+    <Compile Include="Assets\Scripts\FlashlightMechanic.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
